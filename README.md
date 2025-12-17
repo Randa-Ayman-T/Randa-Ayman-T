@@ -37,12 +37,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Randa-Ayman-T/Randa-Ayman-T/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNma3IzbW1rdHgyeDY1cWN3ZHpqYXMzNjJtOHJhaGQ4N3ViYzRqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
